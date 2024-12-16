@@ -1,0 +1,12 @@
+George,Knows,Nick
+Nick,Knows,Elina
+Elina,IsFriend,Katerina
+Katerina,IsFriend,Elina
+Ilia,IsFriend,Katerina
+Katerina,IsFriend,Ilia
+Elina,IsFriend,Ilia
+Ilia,IsFriend,Elina
+Bill,HasRelationship,Katerina
+Katerina,HasRelationship,Bill
+Kostas,Knows,Nick
+Kostas,Knows,Elina
